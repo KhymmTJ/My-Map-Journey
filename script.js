@@ -9,7 +9,7 @@ var places = [
   {
     coords: [14.327716, 121.479856],
     name: "San Juan Kalayaan Plaza",
-    note: "I don't usually go here, it's too loud in here. Though I still to sometimes"
+    note: "I don't usually go here, it's too loud in here. Though I still go sometimes"
   },
   {
     coords: [14.4129582, 121.4483264],
